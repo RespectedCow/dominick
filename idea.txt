@@ -1,0 +1,2 @@
+The idea of this program is to essentially allow the user to deploy packages aka their own applications and be able to view extra data about them.
+As well as deploy them with containers.
